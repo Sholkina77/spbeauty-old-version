@@ -12,7 +12,7 @@ const Option = styled.div`
     
     function ListElement(props) {
     return (
-        <div className='d-flex flex-row align-items-center align-self-stretch gap-2'>
+        <div className='d-flex flex-row align-items-center align-self-stretch gap-2'p-4>
             <Option className='flex-grow-1'>{props.children}</Option>
             <IconOnlyButton icon={<EditIcon/>}/>
             <IconOnlyButton icon={<RemoveIcon/>}/>
