@@ -7,7 +7,7 @@ function Addresses() {
             <div className='title'>Адреса заведений</div>
             <ListElement>Санкт-Петербург, Невский проспект, 28</ListElement>
             <ListElement>Санкт-Петербупг, Казанская улица, 7</ListElement>
-            <div className='mt-auto'><SecondaryButton>Добавить файл</SecondaryButton>
+            <div className='mt-auto'><SecondaryButton>Добавить филиал</SecondaryButton>
                    
             </div>
         </div>
